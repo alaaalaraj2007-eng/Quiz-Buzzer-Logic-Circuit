@@ -3,7 +3,7 @@
 A 4-player Quiz Buzzer logic circuit simulation designed using Logisim.
 
 ## 📐 Circuit Design
-![Quiz Buzzer Circuit](./IMG_231820_20260729.jpg)
+![Quiz Buzzer Circuit](./circuit.jpg)
 
 ## 💡 How it Works
 - Features 4 player inputs (`player1`, `player2`, `player3`, `player4`).
